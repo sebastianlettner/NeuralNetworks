@@ -1,0 +1,304 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Linear.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+math.h
+-
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+../Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/RectifiedLinearUnit.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+math.h
+-
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Sigmoid.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+math.h
+-
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+../Helpers/MatrixOperations/PrintMatrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/PrintMatrix.h
+../Helpers/MatrixOperations/CopyMatrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/CopyMatrix.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/TangensHyperbolikus.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+math.h
+-
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LModelBackward.h
+LinearActivationBackward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LinearActivationBackward.h
+../Helpers/MatrixOperations/PrintMatrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/PrintMatrix.h
+../Helpers/VectorOperations/PrintVec.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/PrintVec.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LinearActivationBackward.h
+LinearBackward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LinearBackward.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LinearBackward.h
+../Helpers/MatrixOperations/Transpose.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/Transpose.h
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+../Helpers/VectorOperations/VectorElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/VectorElementOperation.h
+../Helpers/Sum.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Sum.h
+../Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+../ActivationFunctions/RectifiedLinearUnit.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/RectifiedLinearUnit.h
+../ActivationFunctions/Sigmoid.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Sigmoid.h
+../ActivationFunctions/Linear.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Linear.h
+../ActivationFunctions/TangensHyperbolikus.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/TangensHyperbolikus.h
+../Caches/Cache.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Cache.h
+../Caches/Caches.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Caches.h
+../Parameters/InitializeParameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/InitializeParameters.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Cache.h
+stdlib.h
+-
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Caches.h
+Cache.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Cache.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/CostFunction/ComputeCost.h
+../ForwardPropagation/LModelForward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LModelForward.h
+../Helpers/Sum.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Sum.h
+../Helpers/MatrixOperations/MatrixElementOperation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LModelForward.h
+LinearActivationForward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LinearActivationForward.h
+../Caches/Caches.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Caches.h
+../Parameters/InitializeParameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/InitializeParameters.h
+../Helpers/MatrixOperations/CopyMatrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/CopyMatrix.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LinearActivationForward.h
+LinearForward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LinearForward.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Caches/Cache.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Cache.h
+../ActivationFunctions/Sigmoid.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Sigmoid.h
+../ActivationFunctions/TangensHyperbolikus.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/TangensHyperbolikus.h
+../ActivationFunctions/RectifiedLinearUnit.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/RectifiedLinearUnit.h
+../ActivationFunctions/Linear.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ActivationFunctions/Linear.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LinearForward.h
+../Caches/Cache.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Caches/Cache.h
+../Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+../Helpers/VectorOperations/VectorVectorAddition.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/VectorVectorAddition.h
+../Helpers/MatrixOperations/MatrixVectorBroadcastAddtion.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixVectorBroadcastAddtion.h
+../Helpers/Operations/operations.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Operations/operations.h
+../Helpers/MatrixOperations/PrintMatrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/PrintMatrix.h
+../Helpers/VectorOperations/PrintVec.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/PrintVec.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+stdio.h
+-
+stdlib.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/stdlib.h
+ranlib.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/ranlib.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/CopyMatrix.h
+../Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixElementOperation.h
+../Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Operations/operations.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Operations/operations.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixMatrixMultiplikation.h
+../Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+stdio.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/stdio.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/MatrixVectorBroadcastAddtion.h
+../../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/PrintMatrix.h
+../Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+stdio.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/MatrixOperations/Transpose.h
+../Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Operations/operations.h
+stdio.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Sum.h
+Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+stdlib.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/PrintVec.h
+../Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+stdio.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/VectorElementOperation.h
+../Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+../Operations/operations.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Operations/operations.h
+stdio.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/VectorVectorAddition.h
+../Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+stdio.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/VectorOperations/stdio.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Input/ReadInputRegression.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Model/LLayerModel.h
+UpdateParameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Model/UpdateParameters.h
+stdbool.h
+-
+../CostFunction/ComputeCost.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/CostFunction/ComputeCost.h
+../ForwardPropagation/LModelForward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LModelForward.h
+../Predict/predict.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/predict.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Model/UpdateParameters.h
+../BackPropagation/LModelBackward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/BackPropagation/LModelBackward.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/InitializeParameters.h
+Parameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/Parameters.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/Parameters.h
+stdio.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+stdlib.h
+-
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/WritePredictionsToFile.h
+../Parameters/InitializeParameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/InitializeParameters.h
+predict.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/predict.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/compute_error.h
+stdio.h
+-
+../Helpers/Vector.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Vector.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/predict.h
+../Helpers/Matrix.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Helpers/Matrix.h
+../Parameters/InitializeParameters.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Parameters/InitializeParameters.h
+../ForwardPropagation/LModelForward.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/ForwardPropagation/LModelForward.h
+
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/main.c
+Model/LLayerModel.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Model/LLayerModel.h
+Input/ReadInputRegression.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Input/ReadInputRegression.h
+Predict/compute_error.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/compute_error.h
+Predict/WritePredictionsToFile.h
+/Users/sebastianlettner/Google Drive/MaschineLearning/NeuralNetworkLib/NeuralNetworkLib/Predict/WritePredictionsToFile.h
+
