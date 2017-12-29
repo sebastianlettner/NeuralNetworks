@@ -1,2 +1,2 @@
 # NeuralNetworks
-This is a school project.
+This is a pet project.
